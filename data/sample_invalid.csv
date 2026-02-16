@@ -1,0 +1,4 @@
+SubjectID,Age,EnrollmentDate
+SUB001,,2024-01-15
+SUB002,34,invalid-date
+,45,2024-01-17

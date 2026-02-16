@@ -1,0 +1,6 @@
+**pycache**/
+*.pyc
+.pytest_cache/
+.coverage
+*.log .vscode/
+.DS_Store
