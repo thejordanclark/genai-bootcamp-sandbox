@@ -4,7 +4,8 @@
     "python@3.13",
     "python313Packages.pytest-cov@6.2",
     "python313Packages.pytest@8.4",
-    "python313Packages.pandas@2.3"
+    "python313Packages.pandas@2.3",
+    "python313Packages.pip@25.3"
   ],
   "shell": {
     "init_hook": [

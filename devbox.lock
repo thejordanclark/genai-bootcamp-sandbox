@@ -69,6 +69,90 @@
         }
       }
     },
+    "python313Packages.pip@25.3": {
+      "last_modified": "2026-01-23T17:20:52Z",
+      "resolved": "github:NixOS/nixpkgs/a1bab9e494f5f4939442a57a58d0449a109593fe#python313Packages.pip",
+      "source": "devbox-search",
+      "version": "25.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ahmparbgxzilfpgb3r716y0cw771id24-python3.13-pip-25.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/8frl1i152zfcvl62264bp2nsf2ccs2j5-python3.13-pip-25.3-man",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/d8490myc5i25qacpkjk8w94i4cczwfj4-python3.13-pip-25.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/ahmparbgxzilfpgb3r716y0cw771id24-python3.13-pip-25.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yhgxpvjhkxj647nr5cxhjikmbr3bkqz4-python3.13-pip-25.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/pq84lfwvf5xkx9w2wbdqv8yn52zqr5dq-python3.13-pip-25.3-man",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/w6bgwq8s1zccnylk5wh4kffvnbfr59ni-python3.13-pip-25.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/yhgxpvjhkxj647nr5cxhjikmbr3bkqz4-python3.13-pip-25.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3ppr9plycgzc900wxk2hd7rjlciz4j0k-python3.13-pip-25.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/dxscz5mgc1ljvsfai99g0w60r2qa0h4r-python3.13-pip-25.3-man",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/d3qdkqzbl9p950pqdip1asff7nb46x49-python3.13-pip-25.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/3ppr9plycgzc900wxk2hd7rjlciz4j0k-python3.13-pip-25.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kk4zk5aq3fi3vm7vfm0nl4m44jxiaa6a-python3.13-pip-25.3",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/54ghr1cpaw5nzwjy9giiwpa455k1kd3f-python3.13-pip-25.3-man",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/iwh5qjh956i8ry5h811dfm2zqx5c9kyv-python3.13-pip-25.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/kk4zk5aq3fi3vm7vfm0nl4m44jxiaa6a-python3.13-pip-25.3"
+        }
+      }
+    },
     "python313Packages.pytest-cov@6.2": {
       "last_modified": "2026-01-30T02:32:49Z",
       "resolved": "github:NixOS/nixpkgs/6308c3b21396534d8aaeac46179c14c439a89b8a#python313Packages.pytest-cov",
